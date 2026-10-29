@@ -1,0 +1,1 @@
+ChromaDB es una base de datos vectorial liviana que permite almacenar y recuperar embeddings localmente. Al utilizar un cliente persistente (PersistentClient), los datos se guardan en el disco en una carpeta especificada (por ejemplo, ./vectorstore), evitando reindexar los documentos en cada ejecución.

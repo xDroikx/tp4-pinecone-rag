@@ -1,0 +1,1 @@
+Los embeddings vectoriales convierten texto en coordenadas numéricas de alta dimensión. La similitud del coseno se utiliza para medir la cercanía temática entre dos vectores. Es fundamental usar el mismo modelo de embeddings tanto para indexar como para consultar la base vectorial.

@@ -1,0 +1,1 @@
+La arquitectura de clientes LLM asíncronos permite procesar múltiples solicitudes concurrentes sin bloquear el hilo principal de ejecución. Utiliza patrones como Abstract Factory para intercambiar proveedores como OpenAI, Anthropic y Groq de forma transparente.

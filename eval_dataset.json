@@ -1,0 +1,22 @@
+[
+  {
+    "pregunta": "¿Cómo funciona la búsqueda híbrida y BM25 en Pinecone?",
+    "documento_esperado": "pinecone_hibrido.txt"
+  },
+  {
+    "pregunta": "¿Qué patrón de diseño se utiliza para intercambiar proveedores LLM de forma transparente?",
+    "documento_esperado": "arquitectura_llm.txt"
+  },
+  {
+    "pregunta": "¿Qué métrica matemática mide la cercanía temática entre dos vectores?",
+    "documento_esperado": "embeddings_similitud.txt"
+  },
+  {
+    "pregunta": "¿Cómo funciona la persistencia en disco de ChromaDB?",
+    "documento_esperado": "chroma_persistencia.txt"
+  },
+  {
+    "pregunta": "¿Qué ventaja ofrece Pinecone Serverless en producción?",
+    "documento_esperado": "pinecone_hibrido.txt"
+  }
+]

@@ -1,0 +1,1 @@
+Pinecone es una base de datos vectorial en la nube diseñada para alta escalabilidad en producción. La búsqueda híbrida combina la búsqueda por similitud vectorial con la búsqueda léxica BM25 mediante EnsembleRetriever, mejorando la precisión en términos técnicos y nombres propios.
